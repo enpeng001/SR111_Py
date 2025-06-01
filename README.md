@@ -12,6 +12,5 @@ sudo ip link set can0 up
 
 
 ## 安装依赖
-### Windows
-```bash
+### Windows/Linux
 pip install -r requirements.txt
